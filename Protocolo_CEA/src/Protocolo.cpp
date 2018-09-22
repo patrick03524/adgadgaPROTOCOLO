@@ -61,7 +61,7 @@ string Protocolo::Encriptado(string mensaje_original)
 
     ///Enigma enigma(temp.substr(0,3),a,b,c,temp.substr(3,3),temp.substr(6,2));
     Enigma enigma(e2,a,b,c,e3,e4);
-    enigma_temp1 = temp.substr(8,100);
+    enigma_temp1 = temp.substr(8,500);
     enigma_temp1=enigma.Cifrado(enigma_temp1);
     Affin affin;
     clave_affin_a = affin.get_clave_a();
@@ -114,7 +114,7 @@ string Protocolo::Desencriptado()
 	cesar = exit.substr(15,2);
 	cout <<"CESAR: "<<cesar<<endl;
 	string mensaje;
-	mensaje = exit.substr(17,100);
+	mensaje = exit.substr(17,500);
 	cout <<mensaje<<endl;
 	stringstream a1(affin.substr(0,2));
 	stringstream a2(affin.substr(2,2));

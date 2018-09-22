@@ -2,9 +2,24 @@
 <CodeBlocks_layout_file>
 	<FileVersion major="1" minor="0" />
 	<ActiveTarget name="Debug" />
-	<File name="src\Protocolo.cpp" open="1" top="1" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="include\Func.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="1592" topLine="55" />
+			<Cursor1 position="164" topLine="3" />
+		</Cursor>
+	</File>
+	<File name="include\Protocolo.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="586" topLine="8" />
+		</Cursor>
+	</File>
+	<File name="include\Enigma.h" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="940" topLine="21" />
+		</Cursor>
+	</File>
+	<File name="src\Protocolo.cpp" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1643" topLine="51" />
 		</Cursor>
 	</File>
 	<File name="src\Cesar.cpp" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -12,9 +27,9 @@
 			<Cursor1 position="362" topLine="6" />
 		</Cursor>
 	</File>
-	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="main.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="135" topLine="0" />
+			<Cursor1 position="658" topLine="0" />
 		</Cursor>
 	</File>
 	<File name="src\Enigma.cpp" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -40,21 +55,6 @@
 	<File name="include\Cesar.h" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="241" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="include\Func.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="164" topLine="3" />
-		</Cursor>
-	</File>
-	<File name="include\Protocolo.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="586" topLine="8" />
-		</Cursor>
-	</File>
-	<File name="include\Enigma.h" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="940" topLine="21" />
 		</Cursor>
 	</File>
 </CodeBlocks_layout_file>
