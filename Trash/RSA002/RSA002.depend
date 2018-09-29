@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1538241259 source:d:\programming\c++\rsa002\main.cpp
+	"RSA.h"
+
+1538239678 d:\programming\c++\rsa002\include\rsa.h
+	"Func.h"
+
+1538203240 d:\programming\c++\rsa002\include\func.h
+	<iostream>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+	<vector>
+	<fstream>
+	<sstream>
+	<NTL/ZZ.h>
+
+1538204996 source:d:\programming\c++\rsa002\src\func.cpp
+	"Func.h"
+
+1538239863 source:d:\programming\c++\rsa002\src\rsa.cpp
+	"RSA.h"
+
+1538250394 source:c:\users\alumno-e\downloads\anita-lovers-last-chance-master\anita-lovers-last-chance-master\rsa002\main.cpp
+	"RSA.h"
+
+1538247854 c:\users\alumno-e\downloads\anita-lovers-last-chance-master\anita-lovers-last-chance-master\rsa002\include\rsa.h
+	"Func.h"
+
+1538234228 c:\users\alumno-e\downloads\anita-lovers-last-chance-master\anita-lovers-last-chance-master\rsa002\include\func.h
+	<iostream>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+	<vector>
+	<fstream>
+	<sstream>
+	<NTL/ZZ.h>
+
+1538234228 source:c:\users\alumno-e\downloads\anita-lovers-last-chance-master\anita-lovers-last-chance-master\rsa002\src\func.cpp
+	"Func.h"
+
+1538249890 source:c:\users\alumno-e\downloads\anita-lovers-last-chance-master\anita-lovers-last-chance-master\rsa002\src\rsa.cpp
+	"RSA.h"
+
